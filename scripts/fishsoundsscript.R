@@ -6,7 +6,7 @@ library(ggplot2)
 library(gridExtra)
 
 # read in data ------
-fishsounds <- read.csv(here("Thesis", 
+fishsounds <- read.csv(here("data", 
                             "fishsounds.csv"))
 
 # cleaning data -----

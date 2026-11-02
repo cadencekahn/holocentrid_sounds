@@ -1,0 +1,131 @@
+name,original file,project ,species timeline,subfamily,genus,color,behavior,family interacted with,species interacted with,record duration,record in,record out,source in,source out,Low Freq (Hz),High Freq (Hz),Dur 90% (s),Center Freq (Hz),Peak Freq (Hz),BW 90% (Hz),Pulses
+GHR1,20231207 A1d1,Gen 1,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,Haemulidae,Unknown,00:00:00:001,00:00:07:003,00:00:07:004,00:12:53:060,00:12:53:061,0,1340.106,0.16,281.25,281.25,468.75,3
+GHR2,20231207 A1d1,Gen 1,Holocentrus rufus,Holocentrinae,Holocentrus,Green,1,,,00:00:00:056,00:00:14:093,00:00:15:029,00:31:34:081,00:31:35:017,0,1199.042,0.4053,281.25,281.25,468.75,5
+GHR3,20231207 A1d1,Gen 1,Holocentrus rufus,Holocentrinae,Holocentrus,Green,2,Pomacentridae,Stegastes diencaeus,00:00:00:001,00:00:22:104,00:00:22:105,00:31:43:114,00:31:43:115,0,1775.053,0.1387,281.25,281.25,468.75,3
+HHR1,20260227 A4d1,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,5,Conspecific,Conspecific,00:00:01:101,00:00:08:017,00:00:09:118,00:24:57:105,00:24:59:086,0,1913.615,1.744,93.75,281.25,656.25,16
+HHR2,20251113 A d1,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Lavender,2,Lutjanidae,Lutjanus apodus,00:00:00:001,00:00:18:082,00:00:18:083,00:13:53:068,00:13:53:069,7.839,1649.668,0.176,281.25,281.25,281.25,3
+HHR3,20251113 A d1,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,Acanthuridae,Acanthurus coeruleus,00:00:00:001,00:00:23:050,00:00:23:051,00:26:32:078,00:26:32:079,0,1429.712,0.5333,281.25,281.25,281.25,7
+HHR4,20251116 A d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Lavender,4,,,00:00:00:001,00:00:33:017,00:00:33:018,00:02:02:108,00:02:02:109,0,1334.398,0.0373,187.5,281.25,375,2
+HHR5,20260303 A1d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,Pomacentridae,Abudefduf saxatilis,00:00:01:073,00:00:42:074,00:00:44:027,00:02:55:020,00:02:56:093,0,1928.392,1.568,281.25,281.25,281.25,10
+HHR6,20260303 A1d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Lavender,3,Pomacentridae,Abudefduf saxatilis,00:00:03:100,00:00:48:107,00:00:52:087,00:15:05:005,00:15:08:105,0,1943.701,3.408,281.25,281.25,375,40
+HHR7,20260303 A1d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,2,Pomacentridae,Abudefduf saxatilis,00:00:00:001,00:00:59:013,00:00:59:014,00:19:18:050,00:19:18:051,0,1922.801,0.0107,281.25,281.25,281.25,1
+HHR8,20260303 A1d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,Pomacentridae,Abudefduf saxatilis,00:00:00:001,00:01:05:074,00:01:05:075,00:19:24:111,00:19:24:112,14.779,2527.13,0.5547,281.25,281.25,281.25,6
+HHR9,20260303 A1d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,1,,,00:00:03:019,00:01:16:034,00:01:19:053,00:29:07:011,00:29:10:030,29.557,2497.573,1.5307,281.25,281.25,281.25,14
+HHR10,20260303 A1d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,1,,,00:00:00:001,00:01:27:010,00:01:27:011,00:40:59:100,00:40:59:101,14.779,2083.774,0.0907,281.25,281.25,281.25,2
+HHR11,20260303 A1d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,6,,,00:00:03:017,00:01:34:119,00:01:38:016,00:47:59:099,00:48:02:116,209,1071.126,2.992,562.5,468.75,656.25,6
+HHR12,20260303 A1d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,4,,,00:00:00:001,00:01:45:035,00:01:45:036,00:58:36:050,00:58:36:051,0,1280.126,0.0213,187.5,187.5,562.5,1
+HHR13,20260303 A1d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,,,00:00:00:001,00:01:51:079,00:01:51:080,00:26:05:058,00:26:05:059,0,1630.201,0.2347,281.25,281.25,468.75,3
+HHR14,20260303 A1d2,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,,,00:00:00:001,00:01:57:070,00:01:57:071,00:45:17:073,00:45:17:074,0,1943.701,0.224,281.25,281.25,281.25,3
+HHR15,20260226 A3d1,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Lavender,4,,,00:00:00:001,00:02:06:101,00:02:06:102,01:13:14:041,01:13:14:042,0,2006.401,0.0213,281.25,281.25,937.5,1
+HHR16,20260304 A4d1,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,Holocentridae,Myripristis jacobus,00:00:00:001,00:02:17:035,00:02:17:036,00:45:56:055,00:45:56:056,0,3364.902,0.3893,281.25,281.25,375,4
+HHR17,20260304 A4d1,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,Pomacentridae,Stegastes diencaeus,00:00:03:081,00:02:25:027,00:02:28:108,01:09:22:018,01:09:25:099,0,2164.633,3.44,281.25,281.25,468.75,15
+HHR18,20260311 A1d1,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,2,Holocentridae,Myripristis jacobus,00:00:00:001,00:02:39:061,00:02:39:062,00:05:26:071,00:05:26:072,0,1791.688,1.2693,187.5,187.5,375,12
+HHR19,20260311 A1d1,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,Holocentridae,Myripristis jacobus,00:00:00:001,00:02:48:031,00:02:48:032,00:21:53:115,00:21:53:116,0,1296.924,0.0907,281.25,187.5,281.25,2
+HHR20,20260311 A1d1,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,Holocentridae,Myripristis jacobus,00:00:00:001,00:02:56:006,00:02:56:007,00:43:03:084,00:43:03:085,0,1324.815,0.1067,281.25,281.25,281.25,2
+HHR21,20260311 A1d1,H4O,Holocentrus rufus,Holocentrinae,Holocentrus,Green,3,Pomacentridae,Microspathodon chrysurus,00:00:00:001,00:03:03:108,00:03:03:109,00:07:57:073,00:07:57:074,0,1554.914,0.5547,281.25,281.25,281.25,7
+GMJ1,20230611 A2d3 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:00:095,00:00:06:054,00:00:07:029,00:35:30:109,00:35:31:084,0,1772.391,0.8,187.5,187.5,750,2
+GMJ2,20230611 A2d4,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:02:057,00:00:16:008,00:00:18:065,00:34:12:115,00:34:15:052,0,1826.717,2.384,187.5,187.5,1031.25,5
+GMJ3,20230611 A2d4 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:00:001,00:00:26:013,00:00:26:014,00:41:24:020,00:41:24:021,0,1077.833,0.0267,187.5,187.5,562.5,1
+GMJ4,20230611 A2d5 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Unknown,Unknown,00:00:01:023,00:00:35:082,00:00:36:105,00:19:06:049,00:19:07:072,0,1880.613,1.0293,187.5,187.5,656.25,6
+GMJ5,20230611 A2d5 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:00:44:067,00:00:44:068,00:34:06:046,00:34:06:047,7.205,1167.277,0.064,281.25,281.25,375,1
+GMJ6,20230611 A2d5,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,4,,,00:00:00:001,00:00:52:047,00:00:52:048,00:45:41:119,00:45:42:000,0,929.498,0.0213,187.5,187.5,562.5,1
+GMJ7,20250126,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,4,Pomacentridae,Stegastes diencaeus,00:00:01:038,00:01:02:022,00:01:03:060,00:38:05:014,00:38:06:052,7.205,1059.196,1.248,187.5,187.5,468.75,4
+GMJ8,20250126 d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:062,00:01:13:035,00:01:13:097,00:55:25:075,00:55:26:017,0,1282.564,0.496,281.25,187.5,281.25,2
+GMJ9,20250126 d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:009,00:01:21:059,00:01:21:068,00:55:52:069,00:55:52:078,0,518.79,0.0373,93.75,187.5,187.5,1
+GMJ10,20230603 A2d2 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,4,,,00:00:00:090,00:01:31:037,00:01:32:007,00:40:13:117,00:40:14:087,0,1433.877,0.7147,281.25,187.5,750,3
+GMJ11,20230603 A1d2 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:01:41:009,00:01:41:010,00:05:27:033,00:05:27:034,652.16,2547.499,0.3093,1312.5,1406.25,1125,2
+GMJ12,20230603 A1d2 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Unknown,Unknown,00:00:01:031,00:01:49:039,00:01:50:070,00:17:56:080,00:17:57:111,0,1455.494,0.496,281.25,187.5,562.5,4
+GMJ13,20230603 A1d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:01:58:042,00:01:58:043,00:32:10:065,00:32:10:066,0,1324.375,0.016,187.5,187.5,656.25,1
+GMJ14,20230603 A1d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:02:05:108,00:02:05:109,00:35:14:021,00:35:14:022,14.411,1181.688,0.016,281.25,187.5,468.75,1
+GMJ15,20230603 A1d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,4,,,00:00:00:001,00:02:13:060,00:02:13:061,00:58:43:096,00:58:43:097,0,1289.769,0.0053,281.25,281.25,468.75,1
+GMJ16,20230603 A1d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:02:049,00:02:21:099,00:02:24:028,00:58:55:066,00:58:57:115,0,1434.242,2.256,187.5,187.5,750,4
+GMJ17,20230603 A1d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,2,Conspecific,Conspecific,00:00:00:001,00:02:31:051,00:02:31:052,01:09:23:073,01:09:23:074,0,1478.147,0.1973,187.5,187.5,562.5,2
+GMJ18,20230603 A1d1 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Lavender,3,Conspecific,Conspecific,00:00:00:031,00:02:41:061,00:02:41:092,00:14:46:096,00:14:47:007,0,3537.384,0.1973,187.5,187.5,562.5,2
+GMJ19,20230603 A1d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,5,Conspecific,Conspecific,00:00:06:045,00:02:50:016,00:02:56:061,00:19:10:007,00:19:16:052,0,1834.199,6.0427,281.25,187.5,1125,10
+GMJ20,20230612 A2d2 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Lavender,3,Conspecific,Conspecific,00:00:03:047,00:03:06:040,00:03:09:087,00:04:32:002,00:04:35:049,0,1192.229,3.2747,187.5,187.5,562.5,15
+GMJ21,20230612 A2d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:03:17:057,00:03:17:058,00:44:00:064,00:44:00:065,13.101,1270.838,0.0053,187.5,187.5,375,1
+GMJ22,20230612 A1d1 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,2,Conspecific,Conspecific,00:00:00:001,00:03:27:011,00:03:27:012,00:13:15:021,00:13:15:022,0,655.071,0.0267,187.5,187.5,375,1
+GMJ23,20230612 A1d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,2,Conspecific,Conspecific,00:00:00:001,00:03:29:066,00:03:29:067,00:13:17:076,00:13:17:077,0,1126.722,0.0213,187.5,187.5,468.75,1
+GMJ24,20231211 A2d1 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,4,,,00:00:00:001,00:03:39:054,00:03:39:055,00:22:51:019,00:22:51:020,0,1716.286,0.1387,281.25,281.25,562.5,2
+GMJ25,20231211 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,2,Pomacentridae,Stegastes partitus,00:00:02:072,00:03:47:045,00:03:49:117,00:34:40:078,00:34:43:030,0,2660.099,2.5707,93.75,187.5,1593.75,5
+GMJ26,20231211 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Pomacentridae,Stegastes partitus,00:00:00:043,00:03:53:053,00:03:53:096,00:34:46:086,00:34:47:009,0,1389.017,0.3093,281.25,187.5,562.5,3
+GMJ27,20231215 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,5,Conspecific,Conspecific,00:00:01:077,00:04:03:087,00:04:05:044,00:10:59:016,00:11:00:093,0,1389.017,1.5413,187.5,187.5,843.75,4
+GMJ28,20231215 A2d1 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Pomacentridae,Stegastes partitus,00:00:02:052,00:04:14:037,00:04:16:089,00:16:42:000,00:16:44:052,13.685,1245.326,2.24,187.5,187.5,750,3
+GMJ29,20231215 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:17:037,00:04:26:023,00:04:43:060,00:25:39:115,00:25:57:032,0,1211.113,15.6373,93.75,187.5,656.25,13
+GMJ30,20231215 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:05:074,00:04:53:009,00:04:58:083,00:55:11:053,00:55:17:007,9.677,1345.059,5.552,187.5,187.5,562.5,15
+GMJ31,20231215 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,2,Conspecific,Conspecific,00:00:00:001,00:05:06:050,00:05:06:051,00:59:31:061,00:59:31:062,9.677,1083.788,0.0213,187.5,281.25,375,1
+GMJ32,20231215 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,4,,,00:00:00:001,00:05:14:016,00:05:14:017,01:01:33:068,01:01:33:069,0,1356.594,0.0373,187.5,93.75,468.75,1
+GMJ33,20231215 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Lavender,6,,,00:00:03:047,00:05:22:000,00:05:25:047,01:05:25:109,01:05:29:036,0,613.596,3.248,93.75,187.5,281.25,8
+GMJ34,20231215 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Lavender,3,Conspecific,Conspecific,00:00:02:009,00:05:33:018,00:05:35:027,01:05:35:010,01:05:37:019,0,1051.566,1.888,187.5,281.25,562.5,6
+GMJ35,20231204 A2d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Haemulidae,Haemulon flavolineatum,00:00:00:001,00:05:44:097,00:05:44:098,00:06:38:020,00:06:38:021,17.099,1479.031,0.0053,187.5,187.5,656.25,1
+GMJ36,20231213 A1d3,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:02:098,00:05:54:078,00:05:57:056,00:35:14:051,00:35:17:029,0,903.785,2.8,187.5,187.5,750,4
+GMJ37,20231208 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:08:038,00:06:07:016,00:06:15:054,01:03:38:119,01:03:47:037,0,1743.899,7.4987,187.5,187.5,656.25,15
+GMJ38,20231208 A2d1,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Lavender,3,Conspecific,Conspecific,00:00:03:087,00:06:22:109,00:06:26:076,01:31:14:022,01:31:17:109,20.215,1172.477,3.1307,187.5,187.5,468.75,17
+GMJ39,20231208 A2d2 ,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:02:101,00:06:36:033,00:06:39:014,00:09:37:110,00:09:40:091,0,1067.633,2.8373,187.5,281.25,562.5,17
+GMJ40,20231208 A2d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:01:028,00:06:46:109,00:06:48:017,00:59:57:089,00:59:58:117,0,1418.959,1.04,187.5,187.5,562.5,18
+GMJ41,20231208 A2d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:05:073,00:06:55:107,00:07:01:060,01:00:07:102,01:00:13:055,0,1223.241,5.2587,187.5,187.5,656.25,14
+GMJ42,20231208 A2d2,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Lavender,3,Conspecific,Conspecific,00:00:00:025,00:07:09:019,00:07:09:044,01:11:01:009,01:11:01:034,0,2376.582,0.1333,187.5,93.75,468.75,2
+GMJ43,20231208 A2d3,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:108,00:07:19:015,00:07:20:003,00:59:36:005,00:59:36:113,0,2687.919,0.8587,187.5,187.5,562.5,4
+GMJ44,20231208 A2d3,Gen 1,Myripristis jacobus,Myripristinae,Myripristis,Lavender,1,,,00:00:00:057,00:07:27:066,00:07:28:003,01:09:19:042,01:09:19:099,0,2838.292,0.3733,187.5,93.75,281.25,3
+HMJ1,20251113 A d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Holocentridae,Holocentrus rufus,00:00:00:001,00:00:08:021,00:00:08:022,00:18:39:061,00:18:39:062,0,911.124,0.0213,93.75,93.75,187.5,1
+HMJ2,20251113 A d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Pomacentridae,Azurina multilineata,00:00:00:001,00:00:15:102,00:00:15:103,00:31:53:005,00:31:53:006,0,1908.648,0.0853,281.25,281.25,281.25,2
+HMJ3,20251113 A d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Scaridae,Scarus vetula,00:00:00:001,00:00:23:059,00:00:23:060,00:33:57:050,00:33:57:051,0,1646.009,0.256,187.5,187.5,375,5
+HMJ4,20251113 A d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Lavender,3,Conspecific,Conspecific,00:00:00:001,00:00:31:018,00:00:31:019,00:49:02:055,00:49:02:056,0,1242.961,0.0213,187.5,187.5,281.25,3
+HMJ5,20260303 A1d2,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:00:42:003,00:00:42:004,01:14:36:057,01:14:36:058,0,2062.5,0.4,281.25,281.25,375,5
+HMJ6,20260303 A3d2,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:00:54:063,00:00:54:064,00:59:15:008,00:59:15:009,0,1710.937,0.1813,187.5,187.5,562.5,2
+HMJ7,20260303 A3d2,H4O,Myripristis jacobus,Myripristinae,Myripristis,Lavender,6,,,00:00:03:105,00:01:01:069,00:01:05:054,00:59:25:065,00:59:29:050,0,1160.156,3.8347,187.5,187.5,562.5,3
+HMJ8,20260303 A2d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Pomacentridae,Azurina multilineata,00:00:00:001,00:01:15:046,00:01:15:047,00:13:08:073,00:13:08:074,0,1965.59,0.2827,187.5,187.5,750,2
+HMJ9,20260303 A1d2,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Scaridae,Scarus iseri,00:00:00:001,00:01:25:112,00:01:25:113,00:06:06:091,00:06:06:092,4.942,1185.961,0.1547,187.5,93.75,468.75,4
+HMJ10,20260303 A1d2,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Scaridae,Scarus iseri,00:00:00:040,00:01:33:073,00:01:33:113,00:09:20:089,00:09:21:009,0,1520.056,0.2773,187.5,187.5,562.5,3
+HMJ11,20260303 A1d2,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Acanthuridae,Unknown,00:00:00:075,00:01:41:069,00:01:42:024,00:21:25:017,00:21:25:092,0,1546.264,0.592,281.25,281.25,562.5,3
+HMJ12,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,2,Conspecific,Conspecific,00:00:00:001,00:01:52:106,00:01:52:107,00:04:32:051,00:04:32:052,0,1239.387,0.2187,187.5,187.5,375,4
+HMJ13,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:02:00:080,00:02:00:081,00:08:40:115,00:08:40:116,0,1845.034,0.1707,187.5,187.5,562.5,4
+HMJ14,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:02:07:104,00:02:07:105,00:09:00:009,00:09:00:010,4.942,2135.65,0.0053,375,93.75,1781.25,1
+HMJ15,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:02:15:089,00:02:15:090,00:09:24:073,00:09:24:074,0,1753.015,0.0533,562.5,656.25,843.75,2
+HMJ16,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:02:23:040,00:02:23:041,00:09:28:092,00:09:28:093,0,2196.802,0.0053,656.25,656.25,562.5,1
+HMJ17,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:05:087,00:02:32:008,00:02:37:095,00:11:00:095,00:11:06:062,0,2345.895,0.0053,375,93.75,1687.5,1
+HMJ18,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Pomacentridae,Azurina multilineata,00:00:00:001,00:02:45:057,00:02:45:058,00:23:00:011,00:23:00:012,0,1619.646,0.0587,93.75,93.75,656.25,1
+HMJ19,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:00:001,00:02:53:044,00:02:53:045,00:23:13:115,00:23:13:116,0,1640.03,0.0267,187.5,187.5,375,3
+HMJ20,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:00:001,00:03:00:113,00:03:00:114,00:25:21:003,00:25:21:004,0,1295.251,0.0267,187.5,187.5,468.75,3
+HMJ21,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:028,00:03:08:069,00:03:08:097,00:47:00:078,00:47:00:106,0,2870.635,0.048,468.75,375,562.5,2
+HMJ22,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:00:001,00:03:16:050,00:03:16:051,01:12:26:052,01:12:26:053,0,1126.938,0.0267,187.5,187.5,375,3
+HMJ23,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,4,,,00:00:00:001,00:03:23:081,00:03:23:082,01:17:13:029,01:17:13:030,0,1332.524,0.0213,281.25,281.25,468.75,3
+HMJ24,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:03:31:116,00:03:31:117,01:42:31:048,01:42:31:049,0,1539.887,0.0213,187.5,187.5,375,3
+HMJ25,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:052,00:03:39:089,00:03:40:021,01:48:35:001,01:48:35:053,0,2322.715,0.368,187.5,187.5,656.25,5
+HMJ26,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,2,Conspecific,Conspecific,00:00:00:082,00:03:47:054,00:03:48:016,01:48:53:019,01:48:53:101,0,1930.645,0.6667,187.5,187.5,656.25,2
+HMJ27,20260304 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:03:55:061,00:03:55:062,00:31:49:032,00:31:49:033,0,1218.98,0.1333,187.5,281.25,562.5,2
+HMJ28,20260226 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:00:044,00:04:07:044,00:04:07:088,00:17:51:099,00:17:52:023,0,911.933,0.272,375,468.75,656.25,5
+HMJ29,20260226 A4d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:04:15:036,00:04:15:037,01:11:11:071,01:11:11:072,0,1504.715,0.2667,93.75,93.75,843.75,3
+HMJ30,20260304 A3d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:04:26:016,00:04:26:017,01:17:38:066,01:17:38:067,0,1889.062,0.1547,93.75,93.75,656.25,2
+HMJ31,20260226 A4d2,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,4,,,00:00:00:001,00:04:36:104,00:04:36:105,00:20:20:072,00:20:20:073,0,1026.509,0.016,93.75,93.75,281.25,1
+HMJ32,20260308 A3d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:04:47:083,00:04:47:084,00:32:38:043,00:32:38:044,0,1173.238,0.0107,93.75,93.75,656.25,1
+HMJ33,20260308 A3d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:04:55:039,00:04:55:040,01:26:48:117,01:26:48:118,0,207.916,0.0107,93.75,93.75,187.5,1
+HMJ34,20260312 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:00:001,00:05:06:022,00:05:06:023,00:14:55:033,00:14:55:034,0,1333.036,0.0053,468.75,468.75,375,1
+HMJ35,20260312 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:05:13:111,00:05:13:112,00:37:08:075,00:37:08:076,0,1477.537,0.0107,187.5,187.5,468.75,1
+HMJ36,20260312 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,2,Conspecific,Conspecific,00:00:00:001,00:05:22:076,00:05:22:077,00:43:07:070,00:43:07:071,0,1986.485,0.0053,843.75,750,1687.5,1
+HMJ37,20260312 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:05:30:028,00:05:30:029,00:49:57:078,00:49:57:079,0,1264.127,0.0213,187.5,93.75,281.25,2
+HMJ38,20260312 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:05:38:039,00:05:38:040,01:06:46:083,01:06:46:084,324.348,1372.243,0.0053,843.75,843.75,656.25,1
+HMJ39,20260312 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:00:001,00:05:46:025,00:05:46:026,01:13:20:092,01:13:20:093,0,1214.227,0.016,187.5,187.5,375,2
+HMJ40,20260312 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:00:001,00:05:53:076,00:05:53:077,01:15:33:075,01:15:33:076,0,1351.452,0.352,187.5,187.5,375,3
+HMJ41,20260312 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:06:001,00:06:01:054,00:06:07:055,01:30:06:034,01:30:12:035,0,1437.842,5.904,187.5,187.5,1031.25,10
+HMJ42,20260312 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:00:001,00:06:15:007,00:06:15:008,01:32:53:037,01:32:53:038,0,1058.588,0.0267,187.5,187.5,375,2
+HMJ43,20260304 A2d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,2,Conspecific,Conspecific,00:00:00:001,00:06:26:030,00:06:26:031,00:15:56:080,00:15:56:081,0,1069.28,0.0267,187.5,187.5,375,3
+HMJ44,20260304 A2d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:06:34:017,00:06:34:018,01:00:22:083,01:00:22:084,0,1015.816,0.0267,187.5,187.5,375,3
+HMJ45,20260311 A1d1 ,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:06:44:071,00:06:44:072,00:08:50:087,00:08:50:088,0,1096.607,0.0267,187.5,187.5,375,3
+HMJ46,20260311 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:00:001,00:06:52:040,00:06:52:041,00:09:24:111,00:09:24:112,0,1045.519,0.0213,187.5,187.5,375,3
+HMJ47,20260311 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Conspecific,Conspecific,00:00:02:068,00:07:00:021,00:07:02:089,00:18:15:115,00:18:18:063,0,803.148,2.5333,187.5,187.5,656.25,6
+HMJ48,20260311 A1d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,3,Unknown,Unknown,00:00:00:001,00:07:10:070,00:07:10:071,00:20:55:109,00:20:55:110,0,1116.804,0.0107,187.5,187.5,281.25,1
+HMJ49,20260311 A2d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,6,,,00:00:02:094,00:07:21:058,00:07:24:032,00:36:32:105,00:36:35:079,0,923.145,2.736,187.5,187.5,656.25,5
+HMJ50,20260225 A3d1,H4O,Myripristis jacobus,Myripristinae,Myripristis,Green,1,,,00:00:00:001,00:07:34:095,00:07:34:096,00:09:51:022,00:09:51:023,0,1321.155,0.2667,187.5,187.5,656.25,4
+GNM1,20231130 A2d2,Gen 1,Neoniphon marianus,Holocentrinae,Neoniphon,Green,3,Haemulidae,Haemulon sciurus,00:00:00:001,00:00:07:030,00:00:07:031,00:36:46:096,00:36:46:097,0,4169.884,0.464,375,375,843.75,5
+HNM1,20260303 A3d2,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Green,3,Pomacentridae,Azurina multilineata,00:00:00:001,00:00:08:025,00:00:08:026,00:10:36:065,00:10:36:066,0,2436.621,0.0213,468.75,468.75,750,2
+HNM2,20260303 A3d2 ,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Green,3,Scaridae,Scarus taeniopterus,00:00:00:001,00:00:15:097,00:00:15:098,00:11:02:119,00:11:03:000,0,1648.302,0.016,468.75,468.75,375,2
+HNM3,20260228 A3d1,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Green,1,,,00:00:00:001,00:00:26:083,00:00:26:084,01:02:37:078,01:02:37:079,0,4041.924,0.016,468.75,468.75,750,2
+HNM4,20260304 A1d1,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Lavender,3,Pomacentridae,Azurina multilineata,00:00:00:001,00:00:37:041,00:00:37:042,00:39:07:055,00:39:07:056,0,3489.548,0.016,468.75,468.75,562.5,2
+HNM5,20260225 A3d1,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Green,3,Pomacentridae,"Abudefduf saxatilis, Stegastes diencaeus",00:00:15:018,00:00:48:008,00:01:03:026,00:29:23:029,00:29:38:047,0,3088.059,14.3893,375,375,843.75,10
+HNM6,20260225 A3d1,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Lavender,6,,,00:00:04:000,00:01:11:002,00:01:15:002,01:34:47:111,01:34:51:111,0,4937.741,3.968,375,375,1031.25,6
+HNM7,20260312 A1d1,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Green,3,Unknown,Unknown,00:00:00:001,00:01:25:078,00:01:25:079,00:28:50:051,00:28:50:052,0,4516.453,0.016,468.75,468.75,656.25,2
+HNM8,20260226 A3d1,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Lavender,3,Unknown,Unknown,00:00:00:001,00:01:36:050,00:01:36:051,00:47:39:118,00:47:39:119,0,3389.052,0.016,468.75,468.75,468.75,2
+HNM9,20260226 A3d1,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Green,1,,,00:00:00:001,00:01:44:008,00:01:44:009,00:47:52:013,00:47:52:014,0,1324.375,0.0427,281.25,375,656.25,2
+HNM10,20260226 A3d1,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Green,1,,,00:00:02:087,00:01:51:095,00:01:54:062,01:03:03:034,01:03:06:001,0,1073.547,2.1707,187.5,750,937.5,52
+HNM11,20260226 A3d1,H4O,Neoniphon marianus,Holocentrinae,Neoniphon,Lavender,3,Unknown,Unknown,00:00:00:055,00:02:01:054,00:02:01:109,01:10:56:117,01:10:57:052,0,3021.761,0.3947,468.75,468.75,562.5,5
