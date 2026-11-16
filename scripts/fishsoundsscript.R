@@ -4,6 +4,7 @@ library(here)
 library(skimr)
 library(ggplot2)
 library(gridExtra)
+library(ggforce)
 
 # read in data ------
 fishsounds <- read.csv(here("data", 
@@ -26,7 +27,19 @@ fishsounds_clean <- fishsounds_clean|>
          Duration = Dur.90...s.,
          CenterFrequency = Center.Freq..Hz.,
          PeakFrequency = Peak.Freq..Hz.,
-         Bandwidth = BW.90...Hz.)
+         Bandwidth = BW.90...Hz.,
+         Pulses = pulses,
+         Signal_InbandPowerdB = Signal.Inband.Power..dB.FS.,
+         Signal_InbandPowerUnits = Signal.inband.power..linear.units.,
+         Noise_InbandPowerdB = Noise.Inband.Power..dB.FS.,
+         Noise_InbandPowerUnits = Noise.Inband.Power..linear.units.,
+         SNR_Units = SNR..linear.units.,
+         SNR_dB = SNR..dB.)
+
+#SNR only above 6 included 
+fishsounds_clean <- fishsounds_clean |>
+  filter(SNR_dB >= 6)
+
 #singling out agonistic behavior
 fishsounds_clean <- fishsounds_clean |>
   mutate(behavior_agonistic = case_when(
@@ -196,6 +209,7 @@ mean_table <- fishsounds_clean|>
     sd_pulses = sd(Pulses))
 
 print(mean_table)
+
 
 #subfamily 
 subfamilymean_table <- fishsounds_clean|>
@@ -474,6 +488,15 @@ grid.arrange(duration_agonisticsubfamily,
 
 
 # distribution fill = agonistic or no ----
+#count
+fishsounds_clean|>
+  group_by(genus)|>
+  count(behavior_agonistic)
+
+fishsounds_clean|>
+  group_by(subfamily)|>
+  count(behavior_agonistic)
+
 #duration
 duration_generalbyagonistic <- ggplot(fishsounds_clean, 
                                       aes(x=genus, 
@@ -701,7 +724,6 @@ bandwidthpulseFit <- lm(Bandwidth ~ Pulses,
                            data = fishsounds_clean)
 summary(bandwidthpulseFit)
 
-summary(bandwidthpulseFit)
 #filtered by genus
 ggplot(fishsounds_clean,
        aes(x = Pulses,
@@ -746,12 +768,12 @@ summary(pulseregression)
 
 # no difference in agonistic sounds ----
 #duration
-#not significant
+#not significant 
 oneway.test(Duration ~ behavior_agonistic, 
             data = fishsounds_clean, 
             var.equal = FALSE)
 
-#centerfreq
+#centerfreq -- p value like at 0.06 tho
 #not significant
 oneway.test(CenterFrequency ~ behavior_agonistic, 
             data = fishsounds_clean, 
